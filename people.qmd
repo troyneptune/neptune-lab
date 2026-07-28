@@ -1,69 +1,59 @@
 ---
-title: "People"
-subtitle: "Who we are"
-#image: files/group.jpeg
-page-layout: full
-date-format: "YYYY-MM"
-listing:  #an example of listing external links
-#  template: item-default-external.ejs
-- id: lab-member
-  sort: "lastname asc"
-  type: grid
-  fields: [image, title, subtitle]
-  grid-item-align: center
-  grid-columns: 4
-  image-height: 200px
-  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-    - /people/pi.yml  # Use individual files here as you may use each person at different occasions such as events, news.
-    - /people/phd-student.yml
-    - /people/masters-student.yml
-    - /people/undergraduate-student.yml
-
-- id: lab-alumni
-  sort: 
-    - "ended desc"
-    - "lastname asc"  
-  type: table
-  fields: [image, title, subtitle, started, ended]
-  grid-item-align: center  
-  grid-columns: 4
-  image-height: 25px
-  field-display-names: 
-      title: "Name"
-      subtitle: "Role"
-      started: "Started"
-      ended: "Ended"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-    - /people/phd-alumni.yml
-    - /people/masters-alumni.yml
-    - /people/undergraduate-alumni.yml
-
- 
-
-page-navigation: false
-title-block-banner: false
-toc: false
-
-format:
-  html:
-    link-external-newwindow: true
+title: "Meet the Team"
 ---
 
+<div class="people-profile">
 
-## Team
+<figure class="profile-photo-container">
 
-:::{#lab-member}
-:::
+<img src="images/profile.jpg" class="profile-photo">
+
+<figcaption class="image-credit">
+Photo credit: Mike Benard
+</figcaption>
+
+</figure>
+
+<div class="profile-summary">
+
+# Troy Neptune, PhD
+
+<div class="profile-title">
 
 
-## Alumni
+Primary Investigator<br>
+*Visiting Assistant Professor*<br>
+Oberlin College & Conservatory<br>
+he/they
 
-:::{#lab-alumni}
-:::
+[Current CV](files/Troy_Neptune_CV.pdf)
 
+</div>
+
+</div>
+
+</div>
+
+I have always been curious about the natural world and the ways animals interact with their environments. As an ecologist, I enjoy exploring questions that reveal how organisms respond to environmental challenges and how we can use that knowledge to better understand and conserve biodiversity. When I am not researching, I enjoy gardening with my husband and hanging out with my adorable cats, Dorian and Penny. I am also an artist! Check out my work on my [artist Instagram](https://www.instagram.com/troyneptuneart/).
+
+I hope to build a lab environment where students feel encouraged to ask questions, be creative, and develop their own passion for science.
+
+<div class="section-break"></div>
+
+## Recent iNaturalist Observations
+
+One of my favorite things to do when I am outside is adding observations to iNaturalist. Here are a few of my most recent finds.
+
+<!-- iNaturalist Widget -->
+<div
+  data-inat-widget
+  data-inat-source="troyneptune"
+  data-inat-source-type="user"
+  data-inat-theme="light"
+  data-inat-layout="cards"
+  data-inat-limit="6"
+  data-inat-order-by="created_at"
+></div>
+<script src="https://glauberramos.github.io/inat/inat-widget.js"></script>
+
+---

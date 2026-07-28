@@ -1,0 +1,105 @@
+---
+title: "Join the Lab"
+---
+
+The Neptune Lab welcomes students who are curious about the natural world and excited to explore questions in ecology, physiology, and conservation. Our research combines hands-on experimentation, field observations, and collaborative approaches to understand how organisms respond to environmental change.
+
+We are always interested in meeting motivated students who are eager to learn, ask questions, and contribute to ongoing research.
+
+<div class="section-space"></div>
+
+::: {.join-columns .columns}
+
+::: {.column width="50%" .image-left}
+
+![](images/opportunity.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+## Research Opportunities
+
+Students in the Neptune Lab have many opportunities to conduct research using a variety of approaches, including animal behavior, physiological measurements, field ecology, data analysis, and scientific communication. Students will develop independent research projects that contribute to broader questions about how organisms respond to a changing world. 
+
+:::
+
+:::
+
+**Examples of the types of projects undergrads can complete:**
+
+- How does exposure to warming and ALAN during the larval stage affect post-metamorphic traits?
+
+- How do amphibians alter energy allocation under different combinations of environmental signals and stressors?
+
+- How do photoperiod, ALAN, and elevated temperatures alter interactions among amphibians, predators, and competitors?
+
+<div class="section-break"></div>
+
+::: {.join-columns .columns}
+
+::: {.column width="60%"}
+
+## What Students Gain
+
+Students working in the Neptune Lab develop experience in experimental design, animal husbandry, field and laboratory techniques, data analysis, scientific writing, and communicating research to diverse audiences.
+
+My goal is for students to leave the lab not only with research experience but also with greater confidence as scientists and a deeper appreciation for the importance of protecting the natural world.
+
+:::
+
+::: {.column width="40%" .image-right}
+
+<figure class="field-photo-credit">
+
+<img src="images/fieldwork.jpg">
+
+<figcaption class="image-credit">
+Photo credit: Mike Benard
+</figcaption>
+
+</figure>
+
+:::
+
+:::
+
+<div class="section-break"></div>
+
+::: {.join-columns .columns}
+
+::: {.column width="45%" .image-left}
+
+<figure class="field-photo-credit">
+
+<img src="images/diversity.jpg">
+
+<figcaption class="image-credit">
+Image: Andy Brunning/Compound Interest
+</figcaption>
+
+</figure>
+
+:::
+
+::: {.column width="55%"}
+
+## What We Value
+
+The Neptune Lab is committed to creating a welcoming, inclusive, and supportive environment where researchers from all backgrounds can thrive. No matter your background, you are **always** welcome here. 
+
+We believe that diverse perspectives, experiences, and ways of thinking strengthen the science we do and the questions we ask. We strive to create a lab culture where students feel comfortable sharing ideas, developing their scientific interests, and becoming confident researchers.
+
+:::
+
+:::
+
+
+## Interested in Joining?
+
+If you are interested in working with the Neptune Lab, please reach out with a brief introduction describing your interests, relevant experience, and what aspects of our research excite you.
+
+No previous research experience is required! An eagerness to learn new things is all that is required. 
+
+[Reach out to Troy →](contact.qmd){.btn-primary}
+
