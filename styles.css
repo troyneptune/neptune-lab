@@ -1,1 +1,657 @@
 /* css styles */
+
+/* =========================
+   General typography
+========================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&display=swap');
+
+.anchorjs-link {
+  display: none;
+}
+
+body {
+  font-family: "Figtree", sans-serif;
+  color: #2B2B2B;
+  font-weight: 500;
+  font-size: 1.1rem;
+  background-color: #FCFCFA;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Figtree", sans-serif;
+}
+
+h2 {
+  color: #40553A;
+  font-weight: 400;
+}
+
+.quarto-title-block {
+  margin-bottom: 3rem;
+}
+
+.quarto-title-block h1 {
+  font-weight: 400;
+  color: #40553A;
+}
+
+#title-block-header {
+  margin-bottom: 2rem;
+}
+
+
+/* =========================
+   Hero
+========================= */
+
+.hero {
+  text-align: center;
+  padding: 6rem 2rem;
+  background-image: linear-gradient(
+    rgba(251,247,238,0.70),
+    rgba(251,247,238,0.70)
+  ),
+  url("images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero h1 {
+  font-size: 5.5rem;
+  color: #40553A;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #40553A;
+  margin-top: 1rem;
+}
+
+.hero p {
+  font-size: 1.7rem;
+  max-width: 700px;
+  margin: 1.5rem auto;
+}
+
+/* =========================
+   Buttons
+========================= */
+
+.btn-primary,
+.btn-secondary {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  margin: 0.25rem 0.5rem 1rem 0.5rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.btn-primary,
+.btn-primary:link,
+.btn-primary:visited {
+  background-color: #40553A;
+  color: white;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: white;
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+/* =========================
+   Research cards
+========================= */
+
+.research-cards {
+  display: flex;
+  gap: 2rem;
+  align-items: stretch;
+}
+
+.card {
+  flex: 1;
+  background: #F7F7F5;
+  padding: 2rem;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 8px 20px rgba(47,79,58,0.10);
+}
+
+.card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 1.25rem;
+}
+
+.card h3 {
+  font-size: 1.55rem;
+  font-weight: 400;
+  color: #40553A;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.card p {
+  font-size: 1.15rem;
+  line-height: 1.55;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.card a {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  color: #2F4F3A;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Homepage Field Notes */
+
+.field-preview .field-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.field-preview .field-grid img,
+.field-photo-credit img {
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+  display: block;
+}
+
+.field-photo-credit {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 380px;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+/* Homepage media */
+
+.homepage-media {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-top: 2rem;
+}
+
+.homepage-video {
+  flex: 1;
+}
+
+.homepage-photo {
+  flex: 1;
+}
+
+.homepage-video .field-video,
+.homepage-photo img {
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px) {
+  .homepage-media {
+    flex-direction: column;
+  }
+}
+
+/* =========================
+   Gallery / Field Notes
+========================= */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.gallery img {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+}
+
+.field-preview img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+
+/* Videos */
+
+.field-video-wrapper {
+  width: 48%;
+  margin: 0;
+}
+
+.field-video {
+  width: 100%;
+  height: 90%;
+  max-height: 550px;
+  border-radius: 12px;
+  display: block;
+}
+
+.field-caption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.video-grid .field-video-wrapper {
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================
+   People page
+========================= */
+
+.people-profile {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin: 2rem 0 1.5rem 0;
+}
+
+.profile-photo-container {
+  position: relative;
+  width: 420px;
+  margin: 0;
+  flex-shrink: 0;
+}
+
+.profile-photo {
+  width: 420px;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.image-credit {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  margin: 0;
+  font-size: 0.6rem;
+  line-height: 1;
+  color: white;
+  background: rgba(0,0,0,0.45);
+  padding: 2px 5px;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.field-photo-credit {
+  position: relative;
+  width: 100%;
+  height: 380px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.field-photo-credit img {
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+  display: block;
+}
+
+.profile-title {
+  line-height: 2.0;
+}
+
+/* =========================
+   Join the Lab / image sections
+========================= */
+
+.join-columns {
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.join-columns .column {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.join-columns .column:not(:first-child) {
+  padding-left: 2rem;
+}
+
+.join-columns h2 {
+  margin-top: 0;
+}
+
+.join-columns img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 10px;
+  display: block;
+}
+
+.large-photo {
+  max-width: 450px !important;
+}
+
+.image-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.image-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.section-space {
+  height: 2rem;
+}
+
+.section-break {
+  height: 2.5rem;
+}
+
+
+/* =========================
+   Publications
+========================= */
+
+.publication-banner {
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.publication-banner img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+}
+
+.publication-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(251,247,238,0.25);
+}
+
+.manuscript-list,
+.publication-list,
+.profile-list {
+  margin-left: 1.5rem;
+}
+
+
+/* =========================
+   Media coverage
+========================= */
+
+.instagram-embed {
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.media-grid {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-left: 1.5rem;
+}
+
+.media-links {
+  flex: 1;
+  padding-top: 1rem;
+}
+
+.media-intro {
+  margin-bottom: 1.5rem;
+}
+
+
+/* =========================
+   News
+========================= */
+
+.news img {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 12px;
+  margin: 1.5rem auto;
+  display: block;
+}
+
+.news-columns {
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.news-photo {
+  width: 100%;
+  height: 350px;      /* adjust to taste */
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  display: block;
+}
+
+.news-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.news-gallery img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  display: block;
+}
+
+.rounded-photo {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 12px;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* =========================
+   Responsive
+========================= */
+
+@media (max-width: 900px) {
+
+  .people-profile {
+    flex-direction: column;
+  }
+
+  .profile-photo {
+    width: 100%;
+    max-width: 450px;
+  }
+
+}
+
+
+@media (max-width: 768px) {
+
+  .media-grid {
+    flex-direction: column;
+  }
+
+}
+
+/* =========================
+   Research Overview
+========================= */
+
+.research-intro {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.research-text {
+  flex: 1.2;
+}
+
+.research-image {
+  flex: 0.8;
+}
+
+.research-image img {
+  width: 100%;
+  max-width: 400px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px) {
+  .research-intro {
+    flex-direction: column;
+  }
+
+  .research-image img {
+    max-width: 500px;
+  }
+}
+
+/* Offset anchor jumps below navbar */
+#photoperiod,
+#alan,
+#community {
+  scroll-margin-top: 80px;
+}
+
+/* =========================
+   Research image captions
+========================= */
+
+.research-photo {
+  margin: 0 0 1.5rem 0;
+}
+
+.research-photo img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.research-photo figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.research-photo .photo-container {
+  position: relative;
+}
+
+.research-photo .photo-container img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.research-photo .photo-credit {
+  position: absolute;
+  bottom: 8px;
+  right: 10px;
+  font-size: 0.75rem;
+  font-style: italic;
+  color: white;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 3px 8px;
+  border-radius: 6px;
+}
+
+/* Image credit overlay */
+.photo-credit-overlay {
+  position: relative;
+}
+
+.photo-credit {
+  position: absolute;
+  bottom: 8px;
+  right: 10px;
+  font-size: 0.75rem;
+  font-style: italic;
+  color: white;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 3px 8px;
+  border-radius: 6px;
+}
+
