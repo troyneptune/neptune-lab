@@ -24,7 +24,7 @@ Research in the Neptune Lab explores how organisms respond to various anthropoge
 
 ::: {.research-card}
 
-![](images/environmental-cues.jpeg)
+![](images/environmental-cues.jpg)
 
 ### Environmental Cues
 
