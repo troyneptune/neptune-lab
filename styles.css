@@ -771,6 +771,33 @@ h2 {
 
 }
 
+/* Instagram wrapper */
+
+.instagram-wrapper {
+  width: 100%;
+  max-width: 400px;
+  overflow: hidden;
+}
+
+.instagram-wrapper iframe {
+  width: 400px;
+  height: 480px;
+  border: none;
+  display: block;
+}
+
+@media (max-width: 900px) {
+
+  .instagram-wrapper {
+    max-width: 100%;
+  }
+
+  .instagram-wrapper iframe {
+    width: 100%;
+  }
+
+}
+
 /* Mobile fix for media page */
 
 @media (max-width: 900px) {
