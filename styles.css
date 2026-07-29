@@ -686,21 +686,22 @@ h2 {
     flex: none !important;
   }
 
+/* Research two-column sections */
 
-  /* Quarto columns */
-  .columns {
+@media (max-width: 900px) {
+
+  .join-columns {
     display: flex !important;
     flex-direction: column !important;
-    width: 100% !important;
+    width: 100%;
   }
 
-  .columns .column {
+  .join-columns .column {
     width: 100% !important;
-    flex: none !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding: 0 !important;
   }
 
+}
 
   /* Research sections */
   .join-columns {
@@ -911,6 +912,39 @@ html, body {
     width: 100%;
     height: auto;
     max-height: none;
+  }
+
+}
+
+/* Mobile profile image fix */
+
+@media (max-width: 900px) {
+
+  .profile-photo-container {
+    width: 100% !important;
+    max-width: 450px;
+  }
+
+  .profile-photo {
+    width: 100% !important;
+    max-width: 450px;
+    height: auto;
+  }
+
+}
+
+/* Mobile news gallery fix */
+
+@media (max-width: 900px) {
+
+  .news-gallery {
+    grid-template-columns: 1fr !important;
+    width: 100%;
+  }
+
+  .news-gallery img {
+    width: 100%;
+    height: auto;
   }
 
 }
