@@ -444,15 +444,20 @@ h2 {
   margin-left: 1.5rem;
 }
 
-
 /* =========================
-   Media coverage
+   Instagram embed
 ========================= */
 
 .instagram-embed {
-  margin-left: 1.5rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 540px;
+  margin: 1rem auto 2rem auto;
+  overflow: hidden;
+}
+
+.instagram-embed iframe {
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .media-grid {
@@ -766,6 +771,49 @@ h2 {
     width: 100% !important;
     max-width: none !important;
     margin-bottom: 2rem;
+  }
+
+}
+
+@media (max-width: 900px) {
+
+  .instagram-embed {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+}
+
+/* Mobile fix for media page */
+
+@media (max-width: 900px) {
+
+  .media-grid {
+    flex-direction: column;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .instagram-embed {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .media-links {
+    width: 100%;
+  }
+
+}
+
+/* Mobile fix for homepage field note photos */
+
+@media (max-width: 900px) {
+
+  .field-preview .field-grid {
+    grid-template-columns: 1fr !important;
+    width: 100%;
   }
 
 }

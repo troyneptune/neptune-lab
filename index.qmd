@@ -87,7 +87,7 @@ Check out this cool research on how photoperiod drives overwintering preparation
 <div class="instagram-embed">
 
 <iframe src="https://www.instagram.com/p/DSVGwjrAYqp/embed"
-        width="400"
+        width="100%"
         height="480"
         frameborder="0"
         scrolling="no"
