@@ -117,7 +117,7 @@ h2 {
   align-items: stretch;
 }
 
-.card {
+.research-card {
   flex: 1;
   background: #F7F7F5;
   padding: 2rem;
@@ -127,12 +127,12 @@ h2 {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.card:hover {
+.research-card:hover {
   transform: translateY(-7px);
   box-shadow: 0 8px 20px rgba(47,79,58,0.10);
 }
 
-.card img {
+.research-card img {
   width: 100%;
   height: 260px;
   object-fit: cover;
@@ -141,7 +141,7 @@ h2 {
   margin-bottom: 1.25rem;
 }
 
-.card h3 {
+.research-card h3 {
   font-size: 1.55rem;
   font-weight: 400;
   color: #40553A;
@@ -149,14 +149,14 @@ h2 {
   margin: 0;
 }
 
-.card p {
+.research-card p {
   font-size: 1.15rem;
   line-height: 1.55;
   margin-top: 1rem;
   margin-bottom: 0;
 }
 
-.card a {
+.research-card a {
   margin-top: auto;
   padding-top: 0.75rem;
   color: #2F4F3A;
@@ -444,31 +444,20 @@ h2 {
   margin-left: 1.5rem;
 }
 
-
 /* =========================
-   Media coverage
+   Instagram embed
 ========================= */
 
 .instagram-embed {
-  margin-left: 1.5rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 400px;
+  overflow: hidden;
 }
 
-.media-grid {
-  display: flex;
-  gap: 3rem;
-  align-items: flex-start;
-  margin-left: 1.5rem;
-}
-
-.media-links {
-  flex: 1;
-  padding-top: 1rem;
-}
-
-.media-intro {
-  margin-bottom: 1.5rem;
+.instagram-embed iframe {
+  width: 100% !important;
+  max-width: 400px !important;
+  display: block;
 }
 
 
@@ -656,18 +645,24 @@ h2 {
 }
 
 /* =========================
-   Mobile adjustments
+   Mobile layout fixes
 ========================= */
 
 @media (max-width: 900px) {
 
-  /* Hero */
+  body {
+    overflow-x: hidden;
+  }
+
+
+  /* Homepage hero */
   .hero {
     padding: 3rem 1rem;
   }
 
   .hero h1 {
-    font-size: 3rem;
+    font-size: 2.5rem !important;
+    line-height: 1.1;
   }
 
   .hero h2 {
@@ -681,11 +676,46 @@ h2 {
 
   /* Research cards */
   .research-cards {
-    flex-direction: column;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.5rem;
+  }
+
+  .research-cards .research-card {
+    width: 100% !important;
+    flex: none !important;
   }
 
 
-  /* Homepage media */
+  /* Quarto columns */
+  .columns {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .columns .column {
+    width: 100% !important;
+    flex: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+
+  /* Research sections */
+  .join-columns {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .join-columns img {
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+  }
+
+
+  /* Homepage video/photo */
   .homepage-media {
     flex-direction: column;
   }
@@ -696,30 +726,7 @@ h2 {
   }
 
 
-  /* Research split sections */
-  .join-columns {
-    flex-direction: column;
-  }
-
-  .join-columns .column {
-    width: 100% !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  .image-left,
-  .image-right {
-    justify-content: center;
-  }
-
-
-  /* Videos */
-  .video-grid {
-    grid-template-columns: 1fr;
-  }
-
-
-  /* People page */
+  /* People */
   .people-profile {
     flex-direction: column;
   }
@@ -727,90 +734,139 @@ h2 {
 }
 
 /* =========================
-   Mobile layout fixes
+   Fix homepage research cards on mobile
 ========================= */
 
 @media (max-width: 900px) {
 
-  /* Prevent horizontal scrolling */
-  body {
-    overflow-x: hidden;
+  .quarto-layout-row {
+    display: block !important;
+    width: 100% !important;
   }
 
-
-  /* Homepage title */
-  .hero h1 {
-    font-size: 2.5rem !important;
-    line-height: 1.1;
-  }
-
-
-  /* Research cards */
   .research-cards {
-    display: flex !important;
-    flex-direction: column !important;
+    display: block !important;
     width: 100% !important;
   }
 
-  .research-cards .card {
+  .research-cards .research-card {
+    display: flex !important;
+    flex-direction: column !important;
     width: 100% !important;
-    max-width: 100% !important;
-    flex: none !important;
+    max-width: none !important;
     margin-bottom: 2rem;
-  }
-
-
-  /* Quarto column sections */
-  .columns {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-  }
-
-  .columns > .column {
-    width: 100% !important;
-    max-width: 100% !important;
-    flex: none !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-
-  /* Research image sections */
-  .join-columns {
-    display: flex !important;
-    flex-direction: column !important;
-  }
-
-
-  .join-columns img {
-    width: 100% !important;
-    max-width: 450px;
-    margin: 0 auto;
-  }
-
-
-  /* Image alignment */
-  .image-left,
-  .image-right {
-    justify-content: center !important;
   }
 
 }
 
-/* Force research cards to stack on mobile */
 @media (max-width: 900px) {
 
-  .research-cards {
+  .instagram-embed {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+}
+
+/* Mobile fix for media page */
+
+@media (max-width: 900px) {
+
+  .media-grid {
+    flex-direction: column;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .instagram-embed {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .media-links {
+    width: 100%;
+  }
+
+}
+
+/* Mobile fix for homepage field note photos */
+
+@media (max-width: 900px) {
+
+  .field-preview .field-grid {
+    grid-template-columns: 1fr !important;
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 900px) {
+
+  .field-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem;
+  }
+
+  .field-grid img,
+  .field-photo-credit {
+    width: 100%;
+  }
+
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+
+/* Instagram mobile containment fix */
+.instagram-embed {
+  overflow: hidden !important;
+  max-width: 100vw !important;
+}
+
+.instagram-embed iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.instagram-embed * {
+  max-width: 100% !important;
+}
+
+@media (max-width: 900px) {
+  .media-grid {
     display: flex !important;
     flex-direction: column !important;
     width: 100% !important;
+    max-width: 100vw !important;
+    overflow: hidden !important;
+  }
+}
+
+/* Homepage field notes mobile fix */
+
+@media (max-width: 900px) {
+
+  .field-grid {
+    display: block !important;
+    width: 100% !important;
   }
 
-  .research-cards .card {
+  .field-grid figure,
+  .field-grid p {
     width: 100% !important;
+    margin-bottom: 1.5rem;
+  }
+
+  .field-grid img {
+    width: 100% !important;
+    height: auto !important;
     max-width: 100% !important;
-    flex: none !important;
   }
 
 }

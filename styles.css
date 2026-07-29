@@ -821,3 +821,52 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
+
+/* Instagram mobile containment fix */
+.instagram-embed {
+  overflow: hidden !important;
+  max-width: 100vw !important;
+}
+
+.instagram-embed iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.instagram-embed * {
+  max-width: 100% !important;
+}
+
+@media (max-width: 900px) {
+  .media-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+    overflow: hidden !important;
+  }
+}
+
+/* Homepage field notes mobile fix */
+
+@media (max-width: 900px) {
+
+  .field-grid {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .field-grid figure,
+  .field-grid p {
+    width: 100% !important;
+    margin-bottom: 1.5rem;
+  }
+
+  .field-grid img {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+  }
+
+}
