@@ -47,6 +47,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    include-in-header:
-      - text: |
-          <script src="external-links.js"></script>
+include-in-header:
+  - text: |
+      <script src="external-links.js" defer></script>
