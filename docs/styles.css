@@ -655,3 +655,162 @@ h2 {
   border-radius: 6px;
 }
 
+/* =========================
+   Mobile adjustments
+========================= */
+
+@media (max-width: 900px) {
+
+  /* Hero */
+  .hero {
+    padding: 3rem 1rem;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+  }
+
+  .hero h2 {
+    font-size: 1.5rem;
+  }
+
+  .hero p {
+    font-size: 1.2rem;
+  }
+
+
+  /* Research cards */
+  .research-cards {
+    flex-direction: column;
+  }
+
+
+  /* Homepage media */
+  .homepage-media {
+    flex-direction: column;
+  }
+
+  .homepage-video,
+  .homepage-photo {
+    width: 100%;
+  }
+
+
+  /* Research split sections */
+  .join-columns {
+    flex-direction: column;
+  }
+
+  .join-columns .column {
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .image-left,
+  .image-right {
+    justify-content: center;
+  }
+
+
+  /* Videos */
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+
+
+  /* People page */
+  .people-profile {
+    flex-direction: column;
+  }
+
+}
+
+/* =========================
+   Mobile layout fixes
+========================= */
+
+@media (max-width: 900px) {
+
+  /* Prevent horizontal scrolling */
+  body {
+    overflow-x: hidden;
+  }
+
+
+  /* Homepage title */
+  .hero h1 {
+    font-size: 2.5rem !important;
+    line-height: 1.1;
+  }
+
+
+  /* Research cards */
+  .research-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .research-cards .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+    margin-bottom: 2rem;
+  }
+
+
+  /* Quarto column sections */
+  .columns {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+
+  /* Research image sections */
+  .join-columns {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+
+  .join-columns img {
+    width: 100% !important;
+    max-width: 450px;
+    margin: 0 auto;
+  }
+
+
+  /* Image alignment */
+  .image-left,
+  .image-right {
+    justify-content: center !important;
+  }
+
+}
+
+/* Force research cards to stack on mobile */
+@media (max-width: 900px) {
+
+  .research-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .research-cards .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+  }
+
+}

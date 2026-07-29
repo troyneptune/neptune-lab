@@ -732,7 +732,7 @@ h2 {
 
 @media (max-width: 900px) {
 
-  /* Prevent horizontal overflow */
+  /* Prevent horizontal scrolling */
   body {
     overflow-x: hidden;
   }
@@ -740,54 +740,77 @@ h2 {
 
   /* Homepage title */
   .hero h1 {
-    font-size: 3rem;
+    font-size: 2.5rem !important;
     line-height: 1.1;
   }
 
 
   /* Research cards */
   .research-cards {
-    display: block;
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
   }
 
-  .card {
-    width: 100%;
+  .research-cards .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
     margin-bottom: 2rem;
-  }
-
-  .card p {
-    font-size: 1rem;
   }
 
 
   /* Quarto column sections */
   .columns {
-    display: block !important;
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
   }
 
   .columns > .column {
     width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
-    margin-bottom: 2rem;
   }
 
 
   /* Research image sections */
   .join-columns {
-    display: block !important;
+    display: flex !important;
+    flex-direction: column !important;
   }
+
 
   .join-columns img {
-    max-width: 100%;
-    height: auto;
+    width: 100% !important;
+    max-width: 450px;
+    margin: 0 auto;
   }
 
 
-  /* Images should fill mobile width */
+  /* Image alignment */
   .image-left,
   .image-right {
-    justify-content: center;
+    justify-content: center !important;
+  }
+
+}
+
+/* Force research cards to stack on mobile */
+@media (max-width: 900px) {
+
+  .research-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .research-cards .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
   }
 
 }
