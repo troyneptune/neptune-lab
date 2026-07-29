@@ -450,30 +450,14 @@ h2 {
 
 .instagram-embed {
   width: 100%;
-  max-width: 540px;
-  margin: 1rem auto 2rem auto;
+  max-width: 400px;
   overflow: hidden;
 }
 
 .instagram-embed iframe {
   width: 100% !important;
-  max-width: 100% !important;
-}
-
-.media-grid {
-  display: flex;
-  gap: 3rem;
-  align-items: flex-start;
-  margin-left: 1.5rem;
-}
-
-.media-links {
-  flex: 1;
-  padding-top: 1rem;
-}
-
-.media-intro {
-  margin-bottom: 1.5rem;
+  max-width: 400px !important;
+  display: block;
 }
 
 
@@ -816,4 +800,24 @@ h2 {
     width: 100%;
   }
 
+}
+
+@media (max-width: 900px) {
+
+  .field-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem;
+  }
+
+  .field-grid img,
+  .field-photo-credit {
+    width: 100%;
+  }
+
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
