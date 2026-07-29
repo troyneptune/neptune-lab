@@ -364,6 +364,7 @@ h2 {
 ========================= */
 
 .join-columns {
+  display: flex;
   align-items: flex-start;
   gap: 2rem;
   margin-top: 2rem;
@@ -444,22 +445,34 @@ h2 {
   margin-left: 1.5rem;
 }
 
-/* =========================
-   Instagram embed
-========================= */
+/* Instagram embed */
 
-.instagram-embed {
+.instagram-wrapper {
   width: 100%;
   max-width: 400px;
   overflow: hidden;
 }
 
-.instagram-embed iframe {
-  width: 100% !important;
-  max-width: 400px !important;
+.instagram-wrapper iframe {
+  width: 400px !important;
+  height: 650px !important;
+  border: none;
   display: block;
 }
 
+@media (max-width: 900px) {
+
+  .instagram-wrapper {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .instagram-wrapper iframe {
+    width: 100% !important;
+    height: 650px !important;
+  }
+
+}
 
 /* =========================
    News
@@ -972,6 +985,28 @@ html, body {
   .news-gallery img {
     width: 100%;
     height: auto;
+  }
+
+}
+
+/* Research mobile stacking */
+
+@media (max-width: 900px) {
+
+  .join-columns {
+    flex-direction: column;
+  }
+
+  .join-columns .column {
+    width: 100% !important;
+  }
+
+  .research-photo {
+    width: 100%;
+  }
+
+  .research-photo img {
+    width: 100%;
   }
 
 }
