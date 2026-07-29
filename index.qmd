@@ -22,7 +22,7 @@ Research in the Neptune Lab explores how organisms respond to various anthropoge
 
 ::: {.research-cards}
 
-::: {.card}
+::: {.research-card}
 
 ![](images/environmental-cues.jpeg)
 
@@ -35,7 +35,7 @@ Understanding how vertebrates use environmental signals, such as photoperiod, to
 :::
 
 
-::: {.card}
+::: {.research-card}
 
 ![](images/alan.jpg)
 
@@ -48,7 +48,7 @@ Investigating how physiological mechanisms shape responses to environmental stre
 :::
 
 
-::: {.card}
+::: {.research-card}
 
 ![](images/community.jpg)
 

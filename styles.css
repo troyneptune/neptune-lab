@@ -117,7 +117,7 @@ h2 {
   align-items: stretch;
 }
 
-.card {
+.research-card {
   flex: 1;
   background: #F7F7F5;
   padding: 2rem;
@@ -127,12 +127,12 @@ h2 {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.card:hover {
+.research-card:hover {
   transform: translateY(-7px);
   box-shadow: 0 8px 20px rgba(47,79,58,0.10);
 }
 
-.card img {
+.research-card img {
   width: 100%;
   height: 260px;
   object-fit: cover;
@@ -141,7 +141,7 @@ h2 {
   margin-bottom: 1.25rem;
 }
 
-.card h3 {
+.research-card h3 {
   font-size: 1.55rem;
   font-weight: 400;
   color: #40553A;
@@ -149,14 +149,14 @@ h2 {
   margin: 0;
 }
 
-.card p {
+.research-card p {
   font-size: 1.15rem;
   line-height: 1.55;
   margin-top: 1rem;
   margin-bottom: 0;
 }
 
-.card a {
+.research-card a {
   margin-top: auto;
   padding-top: 0.75rem;
   color: #2F4F3A;
@@ -692,7 +692,7 @@ h2 {
     gap: 1.5rem;
   }
 
-  .research-cards .card {
+  .research-cards .research-card {
     width: 100% !important;
     flex: none !important;
   }
@@ -740,6 +740,32 @@ h2 {
   /* People */
   .people-profile {
     flex-direction: column;
+  }
+
+}
+
+/* =========================
+   Fix homepage research cards on mobile
+========================= */
+
+@media (max-width: 900px) {
+
+  .quarto-layout-row {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .research-cards {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .research-cards .research-card {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin-bottom: 2rem;
   }
 
 }
