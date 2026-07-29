@@ -1010,3 +1010,22 @@ html, body {
   }
 
 }
+
+/* Reverse research image/text order on mobile */
+
+@media (max-width: 900px) {
+
+  .join-columns {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .join-columns > .column:first-child {
+    order: 2;
+  }
+
+  .join-columns > .column:last-child {
+    order: 1;
+  }
+
+}
