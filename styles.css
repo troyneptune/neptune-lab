@@ -726,3 +726,68 @@ h2 {
 
 }
 
+/* =========================
+   Mobile layout fixes
+========================= */
+
+@media (max-width: 900px) {
+
+  /* Prevent horizontal overflow */
+  body {
+    overflow-x: hidden;
+  }
+
+
+  /* Homepage title */
+  .hero h1 {
+    font-size: 3rem;
+    line-height: 1.1;
+  }
+
+
+  /* Research cards */
+  .research-cards {
+    display: block;
+  }
+
+  .card {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  .card p {
+    font-size: 1rem;
+  }
+
+
+  /* Quarto column sections */
+  .columns {
+    display: block !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-bottom: 2rem;
+  }
+
+
+  /* Research image sections */
+  .join-columns {
+    display: block !important;
+  }
+
+  .join-columns img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  /* Images should fill mobile width */
+  .image-left,
+  .image-right {
+    justify-content: center;
+  }
+
+}
