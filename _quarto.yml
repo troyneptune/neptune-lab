@@ -5,7 +5,10 @@ project:
     - robots.txt
 
 website:
-  title: "The Neptune Lab"
+  title: "The Neptune Lab | Ecology, Physiology, and Conservation"
+  description: "The Neptune Lab investigates how organisms perceive and respond to environmental change through ecological, physiological, behavioral, and conservation approaches, with a focus on how environmental cues shape adaptation and resilience."
+  site-url: "https://troyneptune.github.io/neptune-lab/"
+  image: images/hero.jpg
 
   navbar:
     background: light
@@ -49,6 +52,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+
 include-in-header:
   - text: |
       <script src="external-links.js" defer></script>
+
