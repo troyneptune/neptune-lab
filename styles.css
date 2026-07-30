@@ -1016,3 +1016,19 @@ html, body {
   }
 
 }
+
+/* Standardize video display */
+.field-video {
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px) {
+  .field-video {
+    height: 300px;
+    object-fit: cover;
+  }
+}
