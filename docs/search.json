@@ -7,18 +7,25 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "publications.html#manuscripts-in-progress",
+    "href": "publications.html#manuscripts-in-progress",
     "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "section": "Manuscripts in Progress",
+    "text": "Manuscripts in Progress\n\nNeptune, T.C., Burraco, P., Petrović, T.G., Gavrić-Čampar, J.P., Gavrilović, B.R., Despotović, S. G., Radovanović, T. B., Radmilović, A., Mirč, M., Kolarov, N. T., and Prokić, M. D. In review at Journal of Experimental Biology. Artificial light at night disrupts diel antioxidant regulation and activity in European treefrog larvae.\nNeptune, T.C., Solis-Sotelo, M.E., Basilico, F., de Paula, W., Burraco, P., and Ruthsatz, K. In prep. Ecologically relevant exposure to artificial light at night has lasting effects on a European toad.\nNeptune, T.C., Rollins, H.B., and Benard, M.F. In revision. Carryover effects of temperature on growth rates across ontogeny in wood frogs (Rana sylvatica).\nNeptune, T.C. In review at Herpetological Review. Kinosternon scorpioides scorpioides (Scorpion Mud Turtle). Predation by Spider."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "Peer-reviewed Publications",
+    "text": "Peer-reviewed Publications\n\nNeptune, T. C., Koester, D. C., and Benard, M. F. (2025). Freeze‐tolerant frogs accumulate cryoprotectants using photoperiod: A potential ecological trap. Journal of Animal Ecology, 94, 2255–2266.\nNeptune, T. C., Benard, M. F. (2024). Longer days, larger grays: carryover effects of photoperiod and temperature in gray treefrogs (Hyla versicolor). Proceedings of the Royal Society B: Biological Sciences, 291, 2026.\nNeptune, T. C., Benard, M. F. (2023). Photoperiod effects in a freshwater community: Amphibian larvae develop faster and zooplankton abundance increases under an early‐season photoperiod. Ecology and Evolution, 13, e10400.\nNeptune, T. C., Bouchard, S. S. (2020). Predation and competition induce variable organ size trade-offs in larval anurans. Journal of Zoology, 312, 193–204."
+  },
+  {
+    "objectID": "publications.html#research-profiles",
+    "href": "publications.html#research-profiles",
+    "title": "Publications",
+    "section": "Research Profiles",
+    "text": "Research Profiles\n\nResearchGate\nORCID"
   },
   {
     "objectID": "projects.html",
@@ -28,32 +35,144 @@
     "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Lab News",
     "section": "",
-    "text": "About the news"
+    "text": "I am officially starting a new position at the beautiful Oberlin College and Conservatory! I am so excited about this new adventure. I will be teaching Organismal Biology, which covers animal and plant anatomy/physiology (and more!). I will also be teaching The Spectrum of Sex, a course about how sex is determined, how complicated that actually is, and how diverse sex determination is across the animal kingdom. It will be a super fun class to teach!"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
+    "objectID": "news.html#july-2026",
+    "href": "news.html#july-2026",
+    "title": "Lab News",
     "section": "",
-    "text": "About the news"
+    "text": "I am officially starting a new position at the beautiful Oberlin College and Conservatory! I am so excited about this new adventure. I will be teaching Organismal Biology, which covers animal and plant anatomy/physiology (and more!). I will also be teaching The Spectrum of Sex, a course about how sex is determined, how complicated that actually is, and how diverse sex determination is across the animal kingdom. It will be a super fun class to teach!"
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "objectID": "news.html#january-2025-may-2026",
+    "href": "news.html#january-2025-may-2026",
+    "title": "Lab News",
+    "section": "January 2025 – May 2026",
+    "text": "January 2025 – May 2026\n\n\nInvestigating Multiple Environmental Stressors Through International Collaboration\n\nDuring my Fulbright postdoctoral fellowship in Spain, I joined researchers at the Estación Biológica de Doñana (EBD) to investigate how amphibians respond to changing environmental conditions. Working with spadefoot toads (Pelobates cultripes), our collaborative project examined how photoperiod, Artificial Light at Night, and temperature interact to influence physiological and developmental responses.\nThis research was conducted in collaboration with Dr. Katharina Ruthsatz, Dr. Pablo Burraco, and graduate researchers at the EBD (shoutout to Marco, Willian, and Flavio!). Bringing together scientists and students from six countries, this experience provided an incredible opportunity to share ideas, build new collaborations, and better understand amphibian responses to environmental stressors.\nThis experience really helped shape the future direction of the Neptune Lab by strengthening our focus on understanding how environmental cues and anthropogenic stressors interact to influence physiological responses to global change."
   },
   {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
+    "objectID": "news.html#april-2026",
+    "href": "news.html#april-2026",
+    "title": "Lab News",
+    "section": "April 2026",
+    "text": "April 2026\n\nSharing Fulbright Research and Building Connections in Morocco\n\n\n\n\nDuring my Fulbright in Spain, I had the opportunity to present ongoing research on amphibian responses to Artificial Light at Night (ALAN) at the Fulbright “Crossing the Strait” Conference in Tangier, Morocco.\nMy oral presentation, Investigating Responses to Artificial Light at Night in the Iberian Spadefoot Toad, shared preliminary findings from our research regarding larval-stage responses to ALAN, photoperiod, and temperature.\nBeyond sharing research, the most meaningful part of the conference was connecting with Fulbright scholars from Spain and Morocco. It was so interesting to learn about their work from a wide range of disciplines, including culture, history, language, media, and cybersecurity. These conversations reinforced the importance of international collaboration and the value of approaching global challenges from multiple perspectives."
+  },
+  {
+    "objectID": "news.html#october-2025",
+    "href": "news.html#october-2025",
+    "title": "Lab News",
+    "section": "October 2025",
+    "text": "October 2025\n\nWhen Frogs Make Headlines: Research Featured in International Media\n\n\n\n\nOur research on how amphibians prepare for seasonal changes in photoperiod and temperature was recently featured by The Wildlife Society, Phys.org, Earth.com, and India Today.\nThe study, published in the Journal of Animal Ecology, explores how eastern gray treefrogs (Hyla versicolor) use photoperiod to anticipate winter conditions. As climate change alters temperature patterns, these reliable seasonal cues may become increasingly mismatched with the environments that organisms experience.\nThe story reached audiences beyond the scientific community through international media coverage and an Instagram Reel showcasing how frog physiology, seasonal biology, and climate change are connected."
+  },
+  {
+    "objectID": "news.html#september-2025",
+    "href": "news.html#september-2025",
+    "title": "Lab News",
+    "section": "September 2025",
+    "text": "September 2025\n\nNew Research Published: Photoperiod as an Ecological Trap?\n\nOur new study published in Journal of Animal Ecology examines how amphibians use photoperiod to prepare for winter conditions.\nUsing eastern gray treefrogs (Hyla versicolor), we found that photoperiod alone can trigger physiological changes associated with winter survival, including increased cryoprotectant accumulation and altered thermal tolerance. However, as climate change causes winters to warm and seasonal temperature conditions become less predictable, organisms that rely on photoperiod may receive misleading information about upcoming environmental conditions.\nThese findings highlight the importance of understanding how animals use environmental cues to anticipate seasonal change and how global change can disrupt these critical biological signals.\nRead the paper:\nFreeze-tolerant frogs accumulate cryoprotectants using photoperiod: A potential ecological trap →"
+  },
+  {
+    "objectID": "news.html#may-2025",
+    "href": "news.html#may-2025",
+    "title": "Lab News",
+    "section": "May 2025",
+    "text": "May 2025\n\nAwarded Fulbright Fellowship to Conduct Research in Spain\n\nI was selected for a Fulbright fellowship to conduct research at the Estación Biológica de Doñana (EBD) in Seville, Spain, with Drs. Katharina Ruthsatz and Pablo Burraco. The focus of the project is on understanding how amphibians respond to ecologically relevant levels of light pollution and how long effects of light pollution persist after metamorphosis.\nWhat an incredible opportunity!"
+  },
+  {
+    "objectID": "news.html#july-2024",
+    "href": "news.html#july-2024",
+    "title": "Lab News",
+    "section": "July 2024",
+    "text": "July 2024\n\nNew Research Published: How Does Photoperiod Shape Amphibian Development?\n\nOur new study, published in Proceedings of the Royal Society B, examines how photoperiod and temperature interact to influence development and patterns of growth in gray treefrogs (Hyla versicolor).\nBy experimentally manipulating seasonal light and temperature conditions during larval development, we found that photoperiod can have lasting effects on metamorphosis and juvenile growth. This is the first study that shows the comprehensive and lasting effects of photoperiod as an enviornmental signal.\nRead the paper:\nLonger days, larger grays: carryover effects of photoperiod and temperature in gray treefrogs →"
+  },
+  {
+    "objectID": "news.html#july-2024-1",
+    "href": "news.html#july-2024-1",
+    "title": "Lab News",
+    "section": "July 2024",
+    "text": "July 2024\n\nResearch Recognized at the Joint Meeting of Ichthyologists and Herpetologists\n\nI was honored to receive the Stoye Presentation Award in Ecology and Ethology from the American Society of Ichthyologists and Herpetologists (ASIH) for my oral presentation at the Joint Meeting of Ichthyologists and Herpetologists (JMIH) in Pittsburgh, Pennsylvania.\nMy presentation, Tradeoffs between growth and overwintering preparation in response to photoperiod in gray treefrogs: a potential ecological trap, highlighted my research examining how amphibians respond to natural variation in photoperiod.\nThis recognition provided an exciting opportunity to share my work with the broader herpetological community and connect with researchers studying amphibians and reptiles from around the world. I cannot wait to go back!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in touch!",
+    "section": "",
+    "text": "Whether you are interested in joining the Neptune Lab, collaborating on research, or simply learning more about the work we do, I would love to hear from you!"
+  },
+  {
+    "objectID": "contact.html#prospective-students",
+    "href": "contact.html#prospective-students",
+    "title": "Get in touch!",
+    "section": "Prospective Students",
+    "text": "Prospective Students\n\n\n\n\nInterested in joining the Neptune Lab? Please reach out with what interests you most about the research that we do and what you might be interested in doing.\nPrevious research experience is not required. What matters most is curiosity, enthusiasm, reliability, and a willingness to learn."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Overview",
+    "section": "",
+    "text": "The research we do in the Neptune Lab investigates how organisms perceive and cope with environmental change. Through a physiological, morphological, and behavioral framework, our research examines how environmental cues regulate seasonal adaptations and how anthropogenic stressors disrupt those cues.\nAs organisms are faced with multiple interacting stressors, this mechanistic approach allows us to better understand why some organisms persist in rapidly changing ecosystems while others do not.\nOur research focuses primarily on amphibians and other ectotherms, using laboratory experiments, field-based approaches, and ecological manipulations to understand how organisms respond to changing environments.\n\n\n\n\n\nGray treefrog (Hyla versicolor) adult on leaf."
+  },
+  {
+    "objectID": "research.html#research-questions",
+    "href": "research.html#research-questions",
+    "title": "Research Overview",
+    "section": "Research Questions",
+    "text": "Research Questions\nThe Neptune Lab investigates three interconnected questions:\n\nHow do amphibians and other ectotherms use environmental cues like photoperiod to regulate seasonal changes in physiology, morphology, and behavior?\nHow does global change and anthropogenic stressors alter organisms’ ability to correctly perceive seasonal environmental changes?\nHow do altered physiological and behavioral responses scale to influence species interactions and community dynamics?\n\n\n\n\n\n\n\n\n\n Image credit: Tim Neptune \n\n\nPhotoperiod is an important cue for many organisms.\n\n\n\n\n\nGray treefrog (Hyla versicolor) mating pair.\n\n\n\n\n\nEnvironmental cues and ecological timing\nLight is an important cue for many organisms, and variation in light can drive behavioral and physiological changes across various taxa.\nAt nonequatorial latitudes, the duration of daylight (i.e. photoperiod) consistently changes with the seasons and corresponds to variation in the thermal environment. While we know relatively more about how certain taxa respond to photoperiod, such as birds using photoperiod to time migration, we know comparatively very little about how amphibians use photoperiod to time seasonal physiological and behavioral responses.\nOur research investigates how amphibians use photoperiod to regulate seasonal adaptations, including growth, metamorphic timing, and physiological preparation for overwintering.\n\n\n\n\n\n\n\n\n\n\nDisruption to photoperiod perception via light pollution\nHuman activity modifies or, in some cases, completely eliminates the perception of the dark cycle through the use of artificial light exposure during the nighttime.\nArtificial Light at Night (ALAN) affects many species by disrupting their perception of photoperiod, which can influence survival, reproduction, and behavior.\nOur research examines how ecologically realistic levels of light pollution alter amphibian physiology and behavior, as well as how these effects may scale to influence ecological interactions.\n\n\n\n\n\nHuman-made pond exposed to urban light pollution in Seville, Spain.\n\n\n\n\n\n\n\n\n\n\n\n\nOutdoor mesocosms are perfect tools to conduct research across different community compositions.\n\n\n\n\n\nCommunity dynamics in response to environmental stressors\nSpecies differ in their sensitivity to environmental stressors, and these differences may therefore alter ecological interactions.\nBecause physiological and behavioral traits determine how organisms allocate energy, acquire resources, and interact with other species, understanding organismal responses provides a mechanistic framework for predicting community-level consequences.\nResearch in the lab often uses outdoor artificial ponds (i.e. mesocosms) to investigate how anthropogenic stressors influence amphibians and their interactions with predators, competitors, and other members of freshwater communities."
+  },
+  {
+    "objectID": "research.html#environmental-cues-and-ecological-timing",
+    "href": "research.html#environmental-cues-and-ecological-timing",
+    "title": "Research Overview",
+    "section": "Environmental cues and ecological timing",
+    "text": "Environmental cues and ecological timing\nLight is an important cue for many organisms, and variation in light can drive behavioral and physiological changes across various taxa.\nAt nonequatorial latitudes, the duration of daylight (i.e. photoperiod) consistently changes with the seasons and corresponds to variation in the thermal environment. While we know relatively more about how certain taxa respond to photoperiod, such as birds using photoperiod to time migration, we know comparatively very little about how amphibians use photoperiod to time seasonal physiological and behavioral responses.\nOur research investigates how amphibians use photoperiod to regulate seasonal adaptations, including growth, metamorphic timing, and physiological preparation for overwintering."
+  },
+  {
+    "objectID": "research.html#disruption-to-photoperiod-perception-via-light-pollution",
+    "href": "research.html#disruption-to-photoperiod-perception-via-light-pollution",
+    "title": "Research Overview",
+    "section": "Disruption to photoperiod perception via light pollution",
+    "text": "Disruption to photoperiod perception via light pollution\nHuman activity modifies or, in some cases, completely eliminates the perception of the dark cycle through the use of artificial light exposure during the nighttime.\nArtificial Light at Night (ALAN) affects many species by disrupting their perception of photoperiod, which can influence survival, reproduction, and behavior.\nOur research examines how ecologically realistic levels of light pollution alter amphibian physiology and behavior, as well as how these effects may scale to influence ecological interactions."
+  },
+  {
+    "objectID": "research.html#community-dynamics-in-response-to-environmental-stressors",
+    "href": "research.html#community-dynamics-in-response-to-environmental-stressors",
+    "title": "Research Overview",
+    "section": "Community dynamics in response to environmental stressors",
+    "text": "Community dynamics in response to environmental stressors\nSpecies differ in their sensitivity to environmental stressors, and these differences may therefore alter ecological interactions.\nBecause physiological and behavioral traits determine how organisms allocate energy, acquire resources, and interact with other species, understanding organismal responses provides a mechanistic framework for predicting community-level consequences.\nResearch in the lab often uses outdoor artificial ponds (i.e. mesocosms) to investigate how anthropogenic stressors influence amphibians and their interactions with predators, competitors, and other members of freshwater communities."
+  },
+  {
+    "objectID": "research.html#multiple-stressors-and-resilience",
+    "href": "research.html#multiple-stressors-and-resilience",
+    "title": "Research Overview",
+    "section": "Multiple stressors and resilience",
+    "text": "Multiple stressors and resilience\nMost organisms are not exposed to only one stressor. For example, a tadpole could be simultaneously exposed to light pollution, increased temperatures, and exposure to predators.\nResearch in the Neptune Lab examines how multiple anthropogenic stressors interact to influence amphibian physiology and behavior. By combining manipulations of photoperiod, ALAN, temperature, and other environmental variables, we aim to identify the mechanisms that may help promote resilience under various global change scenarios.\nWhat are your ideas? I would love to hear about them!\n\n\n\nContact Troy →"
+  },
+  {
+    "objectID": "pub-listing.html",
+    "href": "pub-listing.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
+  },
+  {
+    "objectID": "pub-listing.html#selected-work",
+    "href": "pub-listing.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
+    "href": "pub-listing.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – The Neptune Lab | Ecology, Physiology, and Conservation Publications – The Neptune Lab | Ecology, Physiology, and Conservation Publications – The Neptune Lab | Ecology, Physiology, and Conservation The Neptune Lab | Ecology, Physiology, and Conservation"
   },
   {
     "objectID": "teaching.html",
@@ -84,87 +203,192 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "join_old.html",
+    "href": "join_old.html",
+    "title": "Join the Lab",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "We are always excited to work with motivated Oberlin students who are curious about ecology, physiology, conservation, and global environmental change.\n\n\nStudents in the lab may:\n\nConduct fieldwork\nWork with amphibians and aquatic ecosystems\nAnalyze data in R\nRead and discuss scientific papers\nPresent research\nContribute to publications\n\n\n\n\nNo problem.\nPrevious research experience is not required. Curiosity, reliability, and a willingness to learn are much more important."
+  },
+  {
+    "objectID": "join_old.html#what-youll-do",
+    "href": "join_old.html#what-youll-do",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Students in the lab may:\n\nConduct fieldwork\nWork with amphibians and aquatic ecosystems\nAnalyze data in R\nRead and discuss scientific papers\nPresent research\nContribute to publications"
+  },
+  {
+    "objectID": "join_old.html#no-experience",
+    "href": "join_old.html#no-experience",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "No problem.\nPrevious research experience is not required. Curiosity, reliability, and a willingness to learn are much more important."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "The Neptune Lab welcomes students who are curious about the natural world and excited to explore questions in ecology, physiology, and conservation. Our research combines hands-on experimentation, field observations, and collaborative approaches to understand how organisms respond to environmental change.\nWe are always interested in meeting motivated students who are eager to learn, ask questions, and contribute to ongoing research.\nExamples of the types of projects undergrads can complete:"
+  },
+  {
+    "objectID": "join.html#research-opportunities",
+    "href": "join.html#research-opportunities",
+    "title": "Join the Lab",
+    "section": "Research Opportunities",
+    "text": "Research Opportunities\nStudents in the Neptune Lab have many opportunities to conduct research using a variety of approaches, including animal behavior, physiological measurements, field ecology, data analysis, and scientific communication. Students will develop independent research projects that contribute to broader questions about how organisms respond to a changing world."
+  },
+  {
+    "objectID": "join.html#what-students-gain",
+    "href": "join.html#what-students-gain",
+    "title": "Join the Lab",
+    "section": "What Students Gain",
+    "text": "What Students Gain\nStudents working in the Neptune Lab develop experience in experimental design, animal husbandry, field and laboratory techniques, data analysis, scientific writing, and communicating research to diverse audiences.\nMy goal is for students to leave the lab not only with research experience but also with greater confidence as scientists and a deeper appreciation for the importance of protecting the natural world."
+  },
+  {
+    "objectID": "join.html#what-we-value",
+    "href": "join.html#what-we-value",
+    "title": "Join the Lab",
+    "section": "What We Value",
+    "text": "What We Value\nThe Neptune Lab is committed to creating a welcoming, inclusive, and supportive environment where researchers from all backgrounds can thrive. No matter your background, you are always welcome here.\nWe believe that diverse perspectives, experiences, and ways of thinking strengthen the science we do and the questions we ask. We strive to create a lab culture where students feel comfortable sharing ideas, developing their scientific interests, and becoming confident researchers."
+  },
+  {
+    "objectID": "join.html#interested-in-joining",
+    "href": "join.html#interested-in-joining",
+    "title": "Join the Lab",
+    "section": "Interested in Joining?",
+    "text": "Interested in Joining?\nIf you are interested in working with the Neptune Lab, please reach out with a brief introduction describing your interests, relevant experience, and what aspects of our research excite you.\nNo previous research experience is required! An eagerness to learn new things is all that is required.\nReach out to Troy →"
+  },
+  {
+    "objectID": "field-notes.html",
+    "href": "field-notes.html",
+    "title": "Photo Gallery",
+    "section": "",
+    "text": "Take a look at some of the fieldwork we do and the species we study!"
+  },
+  {
+    "objectID": "field-notes.html#fieldwork",
+    "href": "field-notes.html#fieldwork",
+    "title": "Photo Gallery",
+    "section": "Fieldwork",
+    "text": "Fieldwork\n\n\n\n\nSearching for green frog eggs during the summer.\n\n\n\n\n\nCollecting ramshorn snails for our mesocosms.\n\n\n\n\n\nMeasuring phytoplankton abundance in mesocosms.\n\n\n\n\n\nPreparing salamanders for photographing.\n\n\n\n\n\nPipe surveys for treefrogs in Ohio.\n\n\n\n\n\nAdult gray treefrog (Hyla versicolor) inside a pipe refugia.\n\n\n\n\n\nCollecting specimens in a pond.\n\n\n\n\n\nDescribing how to differentiate between sexes in green frogs (Rana clamitans).\n\n\n\n\n\n\n\n\n\nCollecting spadefoot toad tadpoles for an experiment.\n\n\n\n\n\n\n\nMale American toad (Anaxyrus americanus) calling in a pond. Look at those ripples in the water!\n\n\n\n\nSpecies We Study\n\n\n\n\nGray treefrogs (Hyla versicolor) are an ideal species to study photoperiod and thermal physiology. They are also one of the cutest amphbians!\n\n\n\n\n\nWestern spadefoot toad juvenile (Pelobates cultripes) used in research on light pollution, photoperiod, and temperature in Spain.\n\n\n\n\n\nAmerican toads (Anaxyrus americanus) are widely distributed across urban environments and could be an ideal species to study.\n\n\n\n\n\nAmerican bullfrog (Rana catesbeiana) are commonly found in ponds in Ohio.\n\n\n\n\n\nSpring peepers (Pseudacris crucifer) are some of the earliest amphibians to breed in the spring; they make that iconic high-pitched peep!.\n\n\n\n\n\nGreen frogs (Rana clamitans) make that banjo sound that you hear around the pond.\n\n\n\n\n\nFun in the Lab!\n\n\n\n\nSetting up the respirometer for measuring resting metabolic rate in tadpoles.\n\n\n\n\n\nMonitoring rate of oxygen consumption in tadpoles.\n\n\n\n\n\nInside a climate chamber that controls temperature, light, and humidity.\n\n\n\n\n\nLooking at low levels of light pollution.\n\n\n\n\n\n\n\n\nSpadefoot toad (Pelobates cultripes) tadpole eating spinach. Super cute!\n\n\n\n\nAll the Herps!\n\n\n\n\nNorthern slimy salamander (Plethodon glutinosus).\n\n\n\n\n\nAdult unisexual Ambystoma salamander.\n\n\n\n\n\nToads lay large “strings” of eggs.\n\n\n\n\n\nEastern milksnake (Lampropeltis triangulum) in field.\n\n\n\n\n\nJuvenile snapping turtle (Chelydra serpentina) near a creek.\n\n\n\n\n\n\nOther Awesome Species\n\n\n\n\nSix-spotted fishing spider (Dolomedes triton) waiting for prey.\n\n\n\n\n\nThe larval stage of dragonflies are important predators of amphibian tadpoles.\n\n\n\n\n\nDragonfly eclosing at night."
+  },
+  {
+    "objectID": "field-notes.html#species-we-study",
+    "href": "field-notes.html#species-we-study",
+    "title": "Photo Gallery",
+    "section": "Species We Study",
+    "text": "Species We Study\n\n\n\n\nGray treefrogs (Hyla versicolor) are an ideal species to study photoperiod and thermal physiology. They are also one of the cutest amphbians!\n\n\n\n\n\nWestern spadefoot toad juvenile (Pelobates cultripes) used in research on light pollution, photoperiod, and temperature in Spain.\n\n\n\n\n\nAmerican toads (Anaxyrus americanus) are widely distributed across urban environments and could be an ideal species to study.\n\n\n\n\n\nAmerican bullfrog (Rana catesbeiana) are commonly found in ponds in Ohio.\n\n\n\n\n\nSpring peepers (Pseudacris crucifer) are some of the earliest amphibians to breed in the spring; they make that iconic high-pitched peep!.\n\n\n\n\n\nGreen frogs (Rana clamitans) make that banjo sound that you hear around the pond."
+  },
+  {
+    "objectID": "field-notes.html#fun-in-the-lab",
+    "href": "field-notes.html#fun-in-the-lab",
+    "title": "Photo Gallery",
+    "section": "Fun in the Lab!",
+    "text": "Fun in the Lab!\n\n\n\n\nSetting up the respirometer for measuring resting metabolic rate in tadpoles.\n\n\n\n\n\nMonitoring rate of oxygen consumption in tadpoles.\n\n\n\n\n\nInside a climate chamber that controls temperature, light, and humidity.\n\n\n\n\n\nLooking at low levels of light pollution.\n\n\n\n\n\n\n\n\nSpadefoot toad (Pelobates cultripes) tadpole eating spinach. Super cute!\n\n\n\n\nAll the Herps!\n\n\n\n\nNorthern slimy salamander (Plethodon glutinosus).\n\n\n\n\n\nAdult unisexual Ambystoma salamander.\n\n\n\n\n\nToads lay large “strings” of eggs.\n\n\n\n\n\nEastern milksnake (Lampropeltis triangulum) in field.\n\n\n\n\n\nJuvenile snapping turtle (Chelydra serpentina) near a creek.\n\n\n\n\n\n\nOther Awesome Species\n\n\n\n\nSix-spotted fishing spider (Dolomedes triton) waiting for prey.\n\n\n\n\n\nThe larval stage of dragonflies are important predators of amphibian tadpoles.\n\n\n\n\n\nDragonfly eclosing at night."
+  },
+  {
+    "objectID": "field-notes.html#all-the-herps",
+    "href": "field-notes.html#all-the-herps",
+    "title": "Photo Gallery",
+    "section": "All the Herps!",
+    "text": "All the Herps!\n\n\n\n\nNorthern slimy salamander (Plethodon glutinosus).\n\n\n\n\n\nAdult unisexual Ambystoma salamander.\n\n\n\n\n\nToads lay large “strings” of eggs.\n\n\n\n\n\nEastern milksnake (Lampropeltis triangulum) in field.\n\n\n\n\n\nJuvenile snapping turtle (Chelydra serpentina) near a creek."
+  },
+  {
+    "objectID": "field-notes.html#other-awesome-species",
+    "href": "field-notes.html#other-awesome-species",
+    "title": "Photo Gallery",
+    "section": "Other Awesome Species",
+    "text": "Other Awesome Species\n\n\n\n\nSix-spotted fishing spider (Dolomedes triton) waiting for prey.\n\n\n\n\n\nThe larval stage of dragonflies are important predators of amphibian tadpoles.\n\n\n\n\n\nDragonfly eclosing at night."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "The Neptune Lab",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "Understanding how wildlife responds to environmental change.\nJoin the Lab"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "objectID": "index.html#ecology-physiology-conservation",
+    "href": "index.html#ecology-physiology-conservation",
+    "title": "The Neptune Lab",
     "section": "",
-    "text": "Researcher, Univerisity\nConsultant, Company\nIntern, Institute"
+    "text": "Understanding how wildlife responds to environmental change.\nJoin the Lab"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "The Neptune Lab",
+    "section": "Research",
+    "text": "Research\nResearch in the Neptune Lab explores how organisms respond to various anthropogenic stressors, with a focus on physiology, behavior, and conservation. We ask questions aimed at understanding how different organisms use physiological, morphological, and behavioral adaptations to cope with climate change, pollution, and other aspects of habitat modification.\n\n\n\n\nEnvironmental Cues\nUnderstanding how vertebrates use environmental signals, such as photoperiod, to regulate physiology, behavior, and seasonal responses.\nExplore photoperiod →\n\n\n\n\n\nArtificial Light at Night\nInvestigating how physiological mechanisms shape responses to environmental stress and influence vulnerability in changing environments.\nExplore light pollution →\n\n\n\n\n\nCommunity Ecology\nExamining how interacting environmental pressures influence community structure and dynamics via changes to species interactions.\nExplore communities →"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "The Neptune Lab",
+    "section": "Latest News",
+    "text": "Latest News\n\nFulbright Research in Spain\nDuring my Fulbright fellowship in Spain, I investigated the potential synergistic effects of light pollution, photoperiod, and temperature on spadefoot toads with some truly incredible collaborators.\nRead more →"
+  },
+  {
+    "objectID": "index.html#media-coverage",
+    "href": "index.html#media-coverage",
+    "title": "The Neptune Lab",
+    "section": "Media Coverage",
+    "text": "Media Coverage\n\nCheck out this cool research on how photoperiod drives overwintering preparation in gray treefrogs, which may ultimately create ecological traps.\n\n\n\n\n\n\n\nFeatured in:\nThe Wildlife Society — Freeze-proof frogs think winter is coming—but is it?\nIndia Today — Climate change may create an ecological trap for species that rely on seasonal cues.\nEarth.com — Tree frogs freeze themselves for a winter that may never come.\nPhys.org — Climate change may create an ecological trap for species that cannot adapt.\nMundiario — Climate change and ecological traps in seasonal species."
+  },
+  {
+    "objectID": "index.html#photos-from-the-field",
+    "href": "index.html#photos-from-the-field",
+    "title": "The Neptune Lab",
+    "section": "Photos from the Field",
+    "text": "Photos from the Field\n\n\n\n\n\nPhoto credit: Mike Benard\n\n\n\n\n\nSee photos of our research from the field and the amazing species we study!\nExplore Photos →"
+  },
+  {
+    "objectID": "index.html#interested-in-ecology-and-conservation",
+    "href": "index.html#interested-in-ecology-and-conservation",
+    "title": "The Neptune Lab",
+    "section": "Interested in Ecology and Conservation?",
+    "text": "Interested in Ecology and Conservation?\nI would love to hear from students who are curious about nature and excited to learn how research can help us understand and conserve biodiversity.\nJoin the Lab\n\n\n\n\n\n\n\nMale American toad (Anaxyrus americanus) calling during the breeding season.\n\n\n\n\n\n\n\nSpadefoot toad (Pelobates cultripes) tadpole eating spinach. Super cute!"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Meet the Team",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "Photo credit: Mike Benard\n\n\n\n\n\nPrimary Investigator Visiting Assistant Professor Oberlin College & Conservatory he/they\nCurrent CV\nI have always been curious about the natural world and the ways animals interact with their environments. As an ecologist, I enjoy exploring questions that reveal how organisms respond to environmental challenges and how we can use that knowledge to better understand and conserve biodiversity. When I am not researching, I enjoy gardening with my husband and hanging out with my adorable cats, Dorian and Penny. I am also an artist! Check out my work on my artist Instagram.\nI hope to build a lab environment where students feel encouraged to ask questions, be creative, and develop their own passion for science."
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
-  },
-  {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "href": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Other Peer-reviewed Journal Papers",
-    "text": "Other Peer-reviewed Journal Papers\n\n\n\nLong-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong Dec 20, 2021\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMQ=='); return false;\"&gt;2021&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('ZW5lcmd5LW5leHVz'); return false;\"&gt;energy-nexus&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2F0ZXI='); return false;\"&gt;water&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\n\n\n PDF  GitHub  Supplemental  \n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
-  },
-  {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "people.html#recent-inaturalist-observations",
+    "href": "people.html#recent-inaturalist-observations",
+    "title": "Meet the Team",
+    "section": "Recent iNaturalist Observations",
+    "text": "Recent iNaturalist Observations\nOne of my favorite things to do when I am outside is adding observations to iNaturalist. Here are a few of my most recent finds."
   }
 ]

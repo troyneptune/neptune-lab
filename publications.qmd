@@ -1,34 +1,48 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
-title-block-banner: false
-css: custom.css
+bibliography: references.bib
 ---
 
+<div class="publication-banner">
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+<img src="images/frog-eggs2.jpg">
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+</div>
 
-Total citations as of January 2025:
+## Manuscripts in Progress
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+<div class="manuscript-list">
 
-## Selected Work
+**Neptune, T.C.**, Burraco, P., Petrović, T.G., Gavrić-Čampar, J.P., Gavrilović, B.R., Despotović, S. G., Radovanović, T. B., Radmilović, A., Mirč, M., Kolarov, N. T., and Prokić, M. D. *In review* at *Journal of Experimental Biology*. Artificial light at night disrupts diel antioxidant regulation and activity in European treefrog larvae.
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+**Neptune, T.C.**, Solis-Sotelo, M.E., Basilico, F., de Paula, W., Burraco, P., and Ruthsatz, K. *In prep.* Ecologically relevant exposure to artificial light at night has lasting effects on a European toad.
 
+**Neptune, T.C.**, Rollins, H.B., and Benard, M.F. *In revision.* Carryover effects of temperature on growth rates across ontogeny in wood frogs (*Rana sylvatica*).
 
-<center><hr style="width:50%"></center>
+**Neptune, T.C.** *In review* at *Herpetological Review*. *Kinosternon scorpioides scorpioides* (Scorpion Mud Turtle). Predation by Spider.
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+</div>
 
+## Peer-reviewed Publications
 
+<div class="publication-list">
 
-<!--Include social share buttons-->
+**Neptune, T. C.**, Koester, D. C., and Benard, M. F. (2025). [Freeze‐tolerant frogs accumulate cryoprotectants using photoperiod: A potential ecological trap](https://doi.org/10.1111/1365-2656.70125). *Journal of Animal Ecology*, 94, 2255–2266.
 
-{{< include /files/includes/_socialshare.qmd >}}
+**Neptune, T. C.**, Benard, M. F. (2024). [Longer days, larger grays: carryover effects of photoperiod and temperature in gray treefrogs (*Hyla versicolor*)](https://doi.org/10.1098/rspb.2024.1336). *Proceedings of the Royal Society B: Biological Sciences*, 291, 2026.
+
+**Neptune, T. C.**, Benard, M. F. (2023). [Photoperiod effects in a freshwater community: Amphibian larvae develop faster and zooplankton abundance increases under an early‐season photoperiod](https://doi.org/10.1002/ece3.10400). *Ecology and Evolution*, 13, e10400.
+
+**Neptune, T. C.**, Bouchard, S. S. (2020). [Predation and competition induce variable organ size trade-offs in larval anurans](https://doi.org/10.1111/jzo.12824). *Journal of Zoology*, 312, 193–204.
+
+</div>
+
+## Research Profiles
+
+<div class="profile-list">
+
+[ResearchGate](https://www.researchgate.net/profile/Troy-Neptune)
+
+[ORCID](https://orcid.org/0000-0003-3092-8101)
+
+</div>

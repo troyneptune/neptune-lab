@@ -1,24 +1,30 @@
 ---
-title: "Contact"
-description-meta: "Reach out to me with questions and comments"
-title-block-banner: false
+title: "Get in touch!"
 ---
 
-<center>
+Whether you are interested in joining the Neptune Lab, collaborating on research, or simply learning more about the work we do, I would love to hear from you!
 
-**Quarto Academic**
+<div class="contact-info">
 
-School
+**Email**  
+[tneptune@oberlin.edu](mailto:tneptune@oberlin.edu)
 
-College
+</div>
 
-University
+<div class="section-break"></div>
 
-Address: 
+## Prospective Students
 
-Phone: 
+::: {.join-columns .columns}
 
-E-mail: 
+::: {.column width="45%" .image-left}
 
+![](images/contact.jpg)
 
-</center>
+:::
+
+::: {.column width="55%"}
+
+Interested in joining the Neptune Lab? Please reach out with what interests you most about the research that we do and what you might be interested in doing.  
+
+Previous research experience is not required. What matters most is curiosity, enthusiasm, reliability, and a willingness to learn. 

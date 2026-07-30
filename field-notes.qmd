@@ -1,0 +1,131 @@
+---
+title: "Photo Gallery"
+---
+
+Take a look at some of the fieldwork we do and the species we study!
+
+## Fieldwork
+
+::: {.gallery}
+
+![Searching for green frog eggs during the summer.](images/field-notes/shruti.jpg){.lightbox}
+
+![Collecting ramshorn snails for our mesocosms.](images/field-notes/rock.jpg){.lightbox}
+
+![Measuring phytoplankton abundance in mesocosms.](images/field-notes/plankton.jpg){.lightbox}
+
+![Preparing salamanders for photographing.](images/field-notes/uni-field.jpg){.lightbox}
+
+![Pipe surveys for treefrogs in Ohio.](images/field-notes/pipe1.jpg){.lightbox}
+
+![Adult gray treefrog (*Hyla versicolor*) inside a pipe refugia.](images/field-notes/gray-pipe.jpg){.lightbox}
+
+![Collecting specimens in a pond.](images/field-notes/alyssa.jpg){.lightbox}
+
+![Describing how to differentiate between sexes in green frogs (*Rana clamitans*).](images/field-notes/fieldwork.jpg){.lightbox}
+
+:::
+
+<div class="video-grid">
+
+<div class="field-video-wrapper">
+
+<video class="field-video" controls>
+<source src="images/field-notes/katharina-field.mp4" type="video/mp4">
+</video>
+
+<p class="field-caption">
+Collecting spadefoot toad tadpoles for an experiment.
+</p>
+
+</div>
+
+<div class="field-video-wrapper">
+
+<video class="field-video" controls>
+<source src="images/field-notes/toad-calling.mp4" type="video/mp4">
+</video>
+
+<p class="field-caption">
+Male American toad (*Anaxyrus americanus*) calling in a pond. Look at those ripples in the water!
+</p>
+
+</div>
+
+</div>
+
+## Species We Study
+
+::: {.gallery}
+
+![Gray treefrogs (*Hyla versicolor*) are an ideal species to study photoperiod and thermal physiology. They are also one of the cutest amphbians!](images/field-notes/gray-treefrog.jpg){.lightbox}
+
+![Western spadefoot toad juvenile (*Pelobates cultripes*) used in research on light pollution, photoperiod, and temperature in Spain.](images/field-notes/spadefoot.jpg){.lightbox}
+
+![American toads (*Anaxyrus americanus*) are widely distributed across urban environments and could be an ideal species to study.](images/field-notes/toad.jpg){.lightbox}
+
+![American bullfrog (*Rana catesbeiana*) are commonly found in ponds in Ohio.](images/field-notes/bullfrog.jpg){.lightbox}
+
+![Spring peepers (*Pseudacris crucifer*) are some of the earliest amphibians to breed in the spring; they make that iconic high-pitched peep!.](images/field-notes/peeper.jpg){.lightbox}
+
+![Green frogs (*Rana clamitans*) make that banjo sound that you hear around the pond.](images/field-notes/green-frog.jpg){.lightbox}
+
+:::
+
+## Fun in the Lab!
+
+::: {.gallery}
+
+![Setting up the respirometer for measuring resting metabolic rate in tadpoles.](images/field-notes/resp1.jpg){.lightbox}
+
+![Monitoring rate of oxygen consumption in tadpoles.](images/field-notes/resp2.jpg){.lightbox}
+
+![Inside a climate chamber that controls temperature, light, and humidity.](images/field-notes/troy-lab2.jpg){.lightbox}
+
+![Looking at low levels of light pollution.](images/field-notes/ALAN-low.jpg){.lightbox}
+
+:::
+
+<div class="field-video-wrapper">
+
+<video class="field-video" controls>
+<source src="images/field-notes/tadpole-eating.mp4" type="video/mp4">
+</video>
+
+<p class="field-caption">
+Spadefoot toad (*Pelobates cultripes*) tadpole eating spinach. Super cute!
+</p>
+
+</div>
+
+---
+
+## All the Herps!
+
+::: {.gallery}
+
+![Northern slimy salamander (*Plethodon glutinosus*). ](images/field-notes/slimy.jpg){.lightbox}
+
+![Adult unisexual *Ambystoma* salamander.](images/field-notes/uni.jpg){.lightbox}
+
+![Toads lay large "strings" of eggs.](images/field-notes/toad-eggs.jpg){.lightbox}
+
+![Eastern milksnake (*Lampropeltis triangulum*) in field.](images/field-notes/milksnake.jpg){.lightbox}
+
+![Juvenile snapping turtle (*Chelydra serpentina*) near a creek.](images/field-notes/snapper.jpg){.lightbox}
+
+:::
+
+---
+
+## Other Awesome Species
+
+::: {.gallery}
+
+![Six-spotted fishing spider (*Dolomedes triton*) waiting for prey.](images/field-notes/spider1.jpg){.lightbox}
+
+![The larval stage of dragonflies are important predators of amphibian tadpoles. ](images/field-notes/dragonfly.jpg){.lightbox}
+
+![Dragonfly eclosing at night. ](images/field-notes/dragonfly-emerging.jpg){.lightbox}
+
+:::
