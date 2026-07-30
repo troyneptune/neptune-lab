@@ -88,7 +88,7 @@ Male American toad (*Anaxyrus americanus*) calling in a pond. Look at those ripp
 
 <div class="field-video-wrapper">
 
-<video class="field-video" controls poster="images/field-notes/tadpole-eating-thumbnail.jpg">
+<video class="field-video portrait-video" controls poster="images/field-notes/tadpole-eating-thumbnail.jpg">
 <source src="images/field-notes/tadpole-eating.mp4" type="video/mp4">
 </video>
 
