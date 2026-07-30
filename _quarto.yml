@@ -8,7 +8,7 @@ project:
 website:
   title: "The Neptune Lab | Ecology, Physiology, and Conservation"
   description: "The Neptune Lab investigates how organisms perceive and respond to environmental change through ecological, physiological, behavioral, and conservation approaches, with a focus on how environmental cues shape adaptation and resilience."
-  site-url: "https://troyneptune.github.io/neptune-lab/"
+  site-url: "https://neptunelab.org/"
   image: images/hero.jpg
 
   navbar:
