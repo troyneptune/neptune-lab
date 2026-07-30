@@ -1,6 +1,6 @@
 ---
-title: "The Neptune Lab"
-description: "Research in the Neptune Lab explores how organisms respond to environmental change through ecology, physiology, behavior, and conservation biology."
+title: ""
+description: ""
 page-layout: full
 ---
 
