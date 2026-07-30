@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - robots.txt
+    - googlea43034a115570d59.html
 
 website:
   title: "The Neptune Lab | Ecology, Physiology, and Conservation"
