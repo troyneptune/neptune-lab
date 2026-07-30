@@ -1003,3 +1003,16 @@ html, body {
   }
 
 }
+
+/* Standalone field videos on mobile */
+@media (max-width: 900px) {
+
+  .field-video-wrapper {
+    width: 100%;
+  }
+
+  .field-video {
+    width: 100%;
+  }
+
+}
