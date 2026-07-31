@@ -450,7 +450,6 @@ h2 {
 ========================= */
 
 .instagram-embed {
-  margin-left: 1.5rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
@@ -459,7 +458,6 @@ h2 {
   display: flex;
   gap: 3rem;
   align-items: flex-start;
-  margin-left: 1.5rem;
 }
 
 .media-links {
@@ -726,3 +724,31 @@ h2 {
 
 }
 
+@media (max-width: 768px) {
+
+  .media-grid {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin-left: 0;
+  }
+
+  .instagram-embed {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto 1.5rem auto;
+  }
+
+  .instagram-embed iframe {
+    max-width: 100%;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .media-links {
+    width: 100%;
+    padding-top: 0;
+  }
+}

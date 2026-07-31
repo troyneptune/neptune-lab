@@ -1,1 +1,4 @@
-Sitemap: https://neptunelab.org/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://troyneptune.github.io/neptune-lab/sitemap.xml
