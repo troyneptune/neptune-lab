@@ -155,7 +155,7 @@ I would love to hear from students who are curious about nature and excited to l
 
 <div class="homepage-video">
 
-<video class="field-video" controls poster="images/field-notes/toad-calling.jpg">
+<video class="field-video" controls poster="images/field-notes/toad-calling-thumbnail.jpg">
 <source src="images/field-notes/toad-calling.mp4" type="video/mp4">
 </video>
 
@@ -167,7 +167,7 @@ Male American toad (*Anaxyrus americanus*) calling during the breeding season.
 
 <div class="homepage-video">
 
-<video class="field-video" controls poster="images/field-notes/tadpole-eating.jpg">
+<video class="field-video" controls poster="images/field-notes/tadpole-eating-thumbnail.jpg">
 <source src="images/field-notes/tadpole-eating.mp4" type="video/mp4">
 </video>
 
