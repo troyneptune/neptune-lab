@@ -733,9 +733,19 @@ h2 {
   }
 
   /* Research split sections */
+
+@media (max-width: 900px) {
+
   .join-columns {
+    display: flex;
     flex-direction: column;
   }
+
+  .join-columns > .image-right {
+    order: -1;
+  }
+
+}
 
   .join-columns .column {
     width: 100% !important;
