@@ -46,15 +46,17 @@ The Neptune Lab investigates three interconnected questions:
 
 ::: {.column width="45%" .image-left}
 
-<figure class="research-photo">
+::: {.column width="45%" .image-left}
 
-<div class="photo-container">
+<<figure class="research-photo">
 
 <img src="images/photoperiod.jpg">
 
-<span class="photo-credit">
+<figcaption class="image-credit">
 Image credit: Tim Neptune
-</span>
+</figcaption>
+
+</figure>
 
 </div>
 
@@ -96,20 +98,6 @@ Our research investigates how amphibians use photoperiod to regulate seasonal ad
 
 ::: {.join-columns .columns}
 
-::: {.column width="55%"}
-
-<a id="alan"></a>
-
-## Disruption to photoperiod perception via light pollution
-
-Human activity modifies or, in some cases, completely eliminates the perception of the dark cycle through the use of artificial light exposure during the nighttime.
-
-Artificial Light at Night (ALAN) affects many species by disrupting their perception of photoperiod, which can influence survival, reproduction, and behavior.
-
-Our research examines how ecologically realistic levels of light pollution alter amphibian physiology and behavior, as well as how these effects may scale to influence ecological interactions.
-
-:::
-
 ::: {.column width="45%" .image-right}
 
 <figure class="research-photo">
@@ -121,6 +109,20 @@ Human-made pond exposed to urban light pollution in Seville, Spain.
 </figcaption>
 
 </figure>
+
+:::
+
+::: {.column width="55%"}
+
+<a id="alan"></a>
+
+## Disruption to photoperiod perception via light pollution
+
+Human activity modifies or, in some cases, completely eliminates the perception of the dark cycle through the use of artificial light exposure during the nighttime.
+
+Artificial Light at Night (ALAN) affects many species by disrupting their perception of photoperiod, which can influence survival, reproduction, and behavior.
+
+Our research examines how ecologically realistic levels of light pollution alter amphibian physiology and behavior, as well as how these effects may scale to influence ecological interactions.
 
 :::
 

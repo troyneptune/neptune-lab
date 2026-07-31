@@ -120,25 +120,26 @@ Check out this cool research on how photoperiod drives overwintering preparation
 
 <div class="field-grid">
 
-<figure class="field-photo-credit">
+<div class="field-item">
+  <img src="images/fieldwork.jpg">
+  <p class="image-credit">Photo credit: Mike Benard</p>
+</div>
 
-<img src="images/fieldwork.jpg">
+<div class="field-item">
+<img src="images/frog.jpg">
+</div>
 
-<figcaption class="image-credit">
-Photo credit: Mike Benard
-</figcaption>
-
-</figure>
-
-![](images/frog.jpg)
-
-![](images/lab.jpg)
+<div class="field-item">
+<img src="images/lab.jpg">
+</div>
 
 </div>
 
+<p>
 See photos of our research from the field and the amazing species we study!
+</p>
 
-[Explore Photos →](field-notes.qmd){.btn-primary}
+<a href="field-notes.qmd" class="btn-primary">Explore Photos →</a>
 
 </div>
 
@@ -154,7 +155,7 @@ I would love to hear from students who are curious about nature and excited to l
 
 <div class="homepage-video">
 
-<video class="field-video" controls>
+<video class="field-video" controls poster="images/field-notes/toad-calling.jpg">
 <source src="images/field-notes/toad-calling.mp4" type="video/mp4">
 </video>
 
@@ -166,7 +167,7 @@ Male American toad (*Anaxyrus americanus*) calling during the breeding season.
 
 <div class="homepage-video">
 
-<video class="field-video" controls>
+<video class="field-video" controls poster="images/field-notes/tadpole-eating.jpg">
 <source src="images/field-notes/tadpole-eating.mp4" type="video/mp4">
 </video>
 
