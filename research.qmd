@@ -46,17 +46,15 @@ The Neptune Lab investigates three interconnected questions:
 
 ::: {.column width="45%" .image-left}
 
-::: {.column width="45%" .image-left}
+<figure class="research-photo">
 
-<<figure class="research-photo">
+<div class="photo-container">
 
 <img src="images/photoperiod.jpg">
 
-<figcaption class="image-credit">
+<span class="photo-credit">
 Image credit: Tim Neptune
-</figcaption>
-
-</figure>
+</span>
 
 </div>
 
@@ -98,20 +96,6 @@ Our research investigates how amphibians use photoperiod to regulate seasonal ad
 
 ::: {.join-columns .columns}
 
-::: {.column width="45%" .image-right}
-
-<figure class="research-photo">
-
-<img src="images/alan2.jpg">
-
-<figcaption>
-Human-made pond exposed to urban light pollution in Seville, Spain. 
-</figcaption>
-
-</figure>
-
-:::
-
 ::: {.column width="55%"}
 
 <a id="alan"></a>
@@ -123,6 +107,20 @@ Human activity modifies or, in some cases, completely eliminates the perception 
 Artificial Light at Night (ALAN) affects many species by disrupting their perception of photoperiod, which can influence survival, reproduction, and behavior.
 
 Our research examines how ecologically realistic levels of light pollution alter amphibian physiology and behavior, as well as how these effects may scale to influence ecological interactions.
+
+:::
+
+::: {.column width="45%" .image-right}
+
+<figure class="research-photo">
+
+<img src="images/alan2.jpg">
+
+<figcaption>
+Human-made pond exposed to urban light pollution in Seville, Spain. 
+</figcaption>
+
+</figure>
 
 :::
 
