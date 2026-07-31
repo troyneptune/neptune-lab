@@ -833,3 +833,18 @@ h2 {
     bottom: 12px;
     z-index: 20;
 }
+
+@media (max-width: 900px) {
+
+  .news-gallery {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .news-gallery img {
+    height: auto;
+    max-height: 350px;
+    object-fit: contain;
+  }
+
+}
