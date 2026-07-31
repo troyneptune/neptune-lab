@@ -748,6 +748,27 @@ h2 {
     justify-content: center;
   }
 
+@media (max-width: 900px) {
+
+  .join-columns .image-right {
+    order: -1;
+  }
+
+}
+
+@media (max-width: 900px) {
+
+  .profile-photo-container {
+    width: 100%;
+    max-width: 380px;
+    margin: 0 auto;
+  }
+
+  .profile-photo {
+    width: 100%;
+  }
+
+}
 
   /* Videos */
   .video-grid {
