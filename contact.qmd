@@ -19,7 +19,15 @@ Whether you are interested in joining the Neptune Lab, collaborating on research
 
 ::: {.column width="45%" .image-left}
 
-![](images/contact.jpg)
+<figure class="photo-container">
+
+<img src="images/contact.jpg" class="large-photo">
+
+<figcaption class="image-credit">
+Photo credit: Mike Benard
+</figcaption>
+
+</figure>
 
 :::
 

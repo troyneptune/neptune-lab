@@ -164,6 +164,19 @@ h2 {
   font-weight: 600;
 }
 
+/* Quarto image wrapper reset */
+.photo-container > p,
+.field-item > p,
+.profile-photo-container > p {
+  margin: 0;
+  line-height: 0;
+}
+
+.figure-img {
+  display: block;
+  margin-bottom: 0 !important;
+}
+
 /* Homepage field photos */
 
 .photo-container {
@@ -193,14 +206,21 @@ h2 {
 }
 
 .field-preview .image-credit {
-  margin: 0;
   position: absolute;
-  bottom: 8px;
-  right: 8px;
-  max-width: calc(100% - 16px);
+  bottom: 12px;
+  right: 12px;
+  display: inline-block;
+  margin: 0;
+  max-width: calc(100% - 24px);
   box-sizing: border-box;
+  display: inline-block;
+  line-height: 1.2;
+  padding: 3px 6px;
 }
 
+.field-preview .image-credit p {
+  margin: 0;
+}
 
 @media (max-width: 900px) {
   .field-preview .field-grid {
@@ -332,8 +352,8 @@ h2 {
 
 .image-credit {
   position: absolute;
-  bottom: 8px;
-  right: 8px;
+  bottom: 12px;
+  right: 20px;
   margin: 0;
   max-width: calc(100% - 16px);
   box-sizing: border-box;
@@ -346,6 +366,13 @@ h2 {
   white-space: normal;
   overflow-wrap: anywhere;
   text-align: right;
+}
+
+.research-photo .photo-container .image-credit {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  z-index: 10;
 }
 
 .join-columns figure,
@@ -629,115 +656,40 @@ h2 {
 
 .research-photo {
   margin: 0 0 1.5rem 0;
-  position: relative;
-  overflow: hidden;
-}
-
-.research-photo img {
-  width: 100%;
-  border-radius: 12px;
-  display: block;
-}
-
-.research-photo figcaption {
-  font-size: 0.85rem;
-  color: #666;
-  font-style: italic;
-  text-align: center;
-  margin-top: 0.5rem;
 }
 
 .research-photo .photo-container {
   position: relative;
   width: 100%;
-  overflow: hidden;
-  border-radius: 12px;
-}
-
-.research-photo .photo-container img {
-  width: 100%;
-  border-radius: 12px;
+  line-height: 0;
   display: block;
 }
 
-.research-photo {
-  position: relative;
-  overflow: hidden;
-}
-
-.research-photo .image-credit {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  margin: 0;
-  max-width: calc(100% - 16px);
-  box-sizing: border-box;
-  font-size: 0.65rem;
-  line-height: 1.2;
-  color: white;
-  background: rgba(0,0,0,0.45);
-  padding: 3px 6px;
-  border-radius: 4px;
-  text-align: right;
-  overflow-wrap: break-word;
-}
-
-/* Image credit overlay */
-
-.image-credit {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  margin: 0;
-  font-size: 0.65rem;
-  line-height: 1.2;
-  color: white;
-  background: rgba(0,0,0,0.45);
-  padding: 3px 6px;
-  border-radius: 4px;
-  max-width: calc(100% - 16px);
-  box-sizing: border-box;
-  text-align: right;
-  overflow-wrap: break-word;
-}
-
-.photo-container {
-  position: relative;
+.research-photo .photo-container img {
+  display: block;
   width: 100%;
-}
-
-.photo-container .image-credit {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
+  height: auto;
   margin: 0;
-  max-width: calc(100% - 16px);
-  box-sizing: border-box;
-  font-size: 0.65rem;
-  line-height: 1.2;
-  color: white;
-  background: rgba(0,0,0,0.45);
-  padding: 3px 6px;
-  border-radius: 4px;
-  text-align: right;
-  overflow-wrap: break-word;
+  border-radius: 12px;
 }
 
-.photo-container .photo-credit {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  max-width: calc(100% - 16px);
-  box-sizing: border-box;
-  font-size: 0.65rem;
-  line-height: 1.2;
+.research-photo .photo-container > p {
+  margin: 0;
+  line-height: 0;
+}
+
+.research-photo .figure-img {
+  display: block;
+  margin-bottom: 0 !important;
+}
+
+/* Caption below image */
+.research-photo > figcaption:not(.image-credit) {
+  font-size: 0.85rem;
+  color: #666;
   font-style: italic;
-  color: white;
-  background: rgba(0,0,0,0.45);
-  padding: 3px 6px;
-  border-radius: 4px;
-  text-align: right;
-  overflow-wrap: break-word;
+  text-align: center;
+  margin-top: 0.5rem;
 }
 
 /* =========================
@@ -839,36 +791,14 @@ h2 {
   }
 }
 
-/* Make all credited images anchor their credits correctly */
-.research-photo,
-.field-photo-credit,
-.profile-photo-container {
-  position: relative;
+.research-photo .photo-container {
+    position: relative;
+    overflow: hidden;
 }
 
-/* Overlay image credits on field-photo-credit figures */
-.field-photo-credit {
-  position: relative;
-}
-
-.field-photo-credit .image-credit {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  margin: 0;
-  font-size: 0.65rem;
-  line-height: 1.2;
-  color: white;
-  background: rgba(0,0,0,0.45);
-  padding: 3px 6px;
-  border-radius: 4px;
-  max-width: calc(100% - 16px);
-  box-sizing: border-box;
-  text-align: right;
-  overflow-wrap: break-word;
-}
-
-.field-photo-credit {
-  width: 100%;
-  max-width: 450px;
+.research-photo .image-credit {
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    z-index: 20;
 }

@@ -52,9 +52,7 @@ The Neptune Lab investigates three interconnected questions:
 
 <img src="images/photoperiod.jpg">
 
-<span class="photo-credit">
-Image credit: Tim Neptune
-</span>
+<figcaption class="image-credit">Image credit: Tim Neptune</figcaption>
 
 </div>
 
@@ -63,6 +61,7 @@ Photoperiod is an important cue for many organisms.
 </figcaption>
 
 </figure>
+
 
 <figure class="research-photo">
 

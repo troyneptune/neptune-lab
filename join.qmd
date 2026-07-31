@@ -12,7 +12,15 @@ We are always interested in meeting motivated students who are eager to learn, a
 
 ::: {.column width="50%" .image-left}
 
-![](images/opportunity.jpg)
+<figure class="photo-container">
+
+<img src="images/opportunity.jpg" class="large-photo">
+
+<figcaption class="image-credit">
+Photo credit: Jean Burns
+</figcaption>
+
+</figure>
 
 :::
 
