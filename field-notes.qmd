@@ -90,7 +90,7 @@ Male American toad (*Anaxyrus americanus*) calling during the breeding season.
 
 :::
 
-<div class="field-video-wrapper">
+<div class="field-video-wrapper standalone-video">
 
 <video class="field-video"
        controls

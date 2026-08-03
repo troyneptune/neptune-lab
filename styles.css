@@ -784,8 +784,7 @@ h2 {
   .video-grid {
     grid-template-columns: 1fr;
   }
-
-
+  
   /* People page */
   .people-profile {
     flex-direction: column;
@@ -849,8 +848,13 @@ h2 {
 
 }
 
-/* TEMP TEST */
+/* Mobile: place right-hand images above text */
 @media (max-width: 900px) {
+  
+  /* Standalone videos */
+.standalone-video.field-video-wrapper {
+  width: 100% !important;
+}
 
   .join-columns.columns {
     display: flex !important;
@@ -858,7 +862,7 @@ h2 {
   }
 
   .join-columns.columns > .image-right {
-    order: -1 !important;
+    order: -1;
   }
 
 }
