@@ -848,3 +848,17 @@ h2 {
   }
 
 }
+
+/* TEMP TEST */
+@media (max-width: 900px) {
+
+  .join-columns.columns {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .join-columns.columns > .image-right {
+    order: -1 !important;
+  }
+
+}
