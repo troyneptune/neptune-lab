@@ -167,6 +167,39 @@ Most organisms are not exposed to only one stressor. For example, a tadpole coul
 
 Research in the Neptune Lab examines how multiple anthropogenic stressors interact to influence amphibian physiology and behavior. By combining manipulations of photoperiod, ALAN, temperature, and other environmental variables, we aim to identify the mechanisms that may help promote resilience under various global change scenarios.
 
+<div class="section-break"></div>
+
+::: {.join-columns .columns}
+
+::: {.column width="55%"}
+
+## Amphibian Monitoring and Habitat Use
+
+Tracking how populations change across time is essential to identifying potential threats to different species, which informs their conservation. Through field-based monitoring and surveying, we examine how amphibians use and select habitats across changing environmental conditions. By linking patterns of abundance and distribution with factors like water availability, vegetation, temperature, and human disturbance, we can better determine conditions that support or prevent the persistence of amphibians in varying habitats. 
+
+Students in the Neptune Lab have the opportunity to assist with local amphibian monitoring by collecting observational data in the field. Examples of this type of sampling include visual surveys of amphibian egg deposition and standardized adult surveys via structures such as pipe refugia. 
+
+:::
+
+::: {.column width="45%" .image-right}
+
+<figure class="research-photo">
+
+<img src="images/gray-pipe.jpg">
+
+<figcaption>
+Adult gray treefrog (*Hyla versicolor*) inside a pipe refugia.
+</figcaption>
+
+</figure>
+
+:::
+
+:::
+
+<div class="section-break"></div>
+
+
 **What are your ideas? I would love to hear about them!**
 
 <div class="section-space"></div>
