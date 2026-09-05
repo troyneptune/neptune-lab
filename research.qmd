@@ -10,7 +10,7 @@ The research we do in the Neptune Lab investigates how organisms perceive and co
 
 As organisms are faced with multiple interacting stressors, this mechanistic approach allows us to better understand why some organisms persist in rapidly changing ecosystems while others do not.
 
-Our research focuses primarily on amphibians and other ectotherms, using laboratory experiments, field-based approaches, and ecological manipulations to understand how organisms respond to changing environments.
+Our research focuses primarily on amphibians, as 41% of all amphibians are threatened with extinction. Using laboratory experiments, field-based approaches, and ecological manipulations, we aim to understand how organisms respond to rapidly changing environments.
 
 :::
 
@@ -21,7 +21,7 @@ Our research focuses primarily on amphibians and other ectotherms, using laborat
 <img src="images/research-overview.jpg">
 
 <figcaption>
-Gray treefrog (*Hyla versicolor*) adult on leaf. 
+Adult gray treefrog (*Hyla versicolor*) on leaf. 
 </figcaption>
 
 </figure>
