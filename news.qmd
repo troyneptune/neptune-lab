@@ -8,13 +8,13 @@ title: "Lab News"
 
 <div class="news-gallery">
 
-<img src="images/herping1.jpeg">
+<img src="images/herping1.jpg">
 
-<img src="images/herping2.jpeg">
+<img src="images/herping2.jpg">
 
-<img src="images/herping3.jpeg">
+<img src="images/herping3.jpg">
 
-<img src="images/herping4.jpeg">
+<img src="images/herping4.jpg">
 
 </div>
 
