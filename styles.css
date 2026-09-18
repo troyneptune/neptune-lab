@@ -834,19 +834,21 @@ h2 {
 }
 
 @media (max-width: 900px) {
-
   .news-gallery {
+    display: grid;
     grid-template-columns: 1fr;
     gap: 1rem;
   }
 
   .news-gallery img {
-    height: auto;
-    max-height: 350px;
-    object-fit: contain;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    object-fit: cover;
     border-radius: 12px !important;
+    clip-path: inset(0 round 12px);
+    display: block;
   }
-
 }
 
 /* Mobile: place right-hand images above text */
