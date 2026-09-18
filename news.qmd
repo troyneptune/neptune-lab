@@ -2,6 +2,24 @@
 title: "Lab News"
 ---
 
+## September 2026
+
+### Herping in the Field with Students
+
+<div class="news-gallery">
+
+<img src="images/herping1.jpeg">
+
+<img src="images/herping2.jpeg">
+
+<img src="images/herping3.jpeg">
+
+<img src="images/herping4.jpeg">
+
+</div>
+
+I had a blast taking students to the Oberlin Arboretum to look for herps! We saw lots of cool amphibians and reptiles including wood frogs (*Rana sylvatica*), painted turtles (*Chrysemys picta*), a common watersnake (*Nerodia sipedon*), and tons of American toads (*Anaxyrus americanus*). Seriously, we saw SO MANY TOADS! The students had a lot of fun, so I think we will have to go back out again soon. Maybe we will see some salamanders next time!
+
 ## July 2026
 
 ### Started as a Visiting Assistant Professor at Oberlin College
